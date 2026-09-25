@@ -1,0 +1,15 @@
+# Ignorar a base de dados local do stock e moedas
+vending_state.json
+
+# Ignorar o histórico de faturação e registos de vendas
+vending_sales_log.csv
+
+# Ignorar ficheiros temporários e caches do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar ficheiros ocultos do sistema operativo
+.DS_Store
+Thumbs.db
